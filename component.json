@@ -1,5 +1,5 @@
 {
-  "name": "hogan.js"
+  "name": "hogan"
   , "description": "A mustache compiler."
   , "version": "3.0.2"
   , "keywords": ["mustache", "template"]
